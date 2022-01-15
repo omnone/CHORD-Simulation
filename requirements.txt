@@ -1,5 +1,5 @@
 graphviz==0.13.2
-Pillow==8.3.2
+Pillow==9.0.0
 pydotplus==2.0.2
 pyfiglet==0.8.post1
 pyparsing==2.4.6
